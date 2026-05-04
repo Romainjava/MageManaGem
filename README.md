@@ -8,7 +8,8 @@ Type `/delgem` in chat to delete your depleted Mana Emerald.
 
 ### Recommended Macro
 
-Create a macro with the following lines to automatically delete your depleted gem before conjuring a new one:
+Create a macro with the following lines to automatically delete your depleted gem before conjuring a new one.
+> **Note:** The macro must use the spell name in your client's language (e.g. "Conjure Mana Emerald" for English clients).
 
 ```
 #showtooltip Conjure Mana Emerald
