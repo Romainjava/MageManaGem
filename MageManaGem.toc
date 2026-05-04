@@ -1,0 +1,11 @@
+## Interface: 20504
+## Title: Mage Mana Gem
+## Notes: Deletes your depleted Mana Emerald so you can conjure a fresh one.
+## Author: Romainjava
+## Version: 1.1
+
+locales\enUS.lua
+locales\frFR.lua
+locales\esES.lua
+locales\deDE.lua
+MageManaGem.lua

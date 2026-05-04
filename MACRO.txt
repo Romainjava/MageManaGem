@@ -1,0 +1,3 @@
+#showtooltip Conjure Mana Emerald
+/delgem
+/cast Conjure Mana Emerald
