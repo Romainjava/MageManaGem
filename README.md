@@ -26,6 +26,7 @@ Create a macro with the following lines to automatically delete your depleted ge
 
 - The addon will not delete items while you are in combat.
 - Supports English, French, Spanish, and German client locales.
+- The addon targets the item by its **ID** (`22044`), not by a localized string, so it works correctly on all language clients.
 
 ## Author
 
