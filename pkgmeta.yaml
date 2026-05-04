@@ -1,0 +1,11 @@
+package-as: MageManaGem
+
+ignore:
+  - .git
+  - .gitignore
+  - README.md
+  - LICENSE
+  - pkgmeta.yaml
+  - .github
+
+license-output: LICENSE
