@@ -1,4 +1,5 @@
 package-as: MageManaGem
+manual-changelog: CHANGELOG.md
 
 ignore:
   - .git

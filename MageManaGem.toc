@@ -2,7 +2,7 @@
 ## Title: Mage Mana Gem
 ## Notes: Deletes your depleted Mana Emerald so you can conjure a fresh one.
 ## Author: Romainjava
-## Version: 1.1
+## Version: 1.1.0
 ## Category: Class
 ## IconTexture: Interface\Icons\INV_Misc_Gem_Emerald_01
 
